@@ -1,7 +1,5 @@
 # Linear Regression With Batch Gradient Descent
 
----
-
 A simple implementation of Linear Regression with a single input and output variable.
 
 
@@ -11,7 +9,7 @@ A simple implementation of Linear Regression with a single input and output vari
 3. Cost Functions: MSE (Mean Squared Error)
 
 
-## TODO
+## ToDo:
 1. Read x and y values from a file
 2. Vectorize for Multilinear Regression
 3. Add Penalties (L2, L1)
