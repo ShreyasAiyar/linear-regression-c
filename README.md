@@ -1,6 +1,6 @@
 # Linear Regression With Batch Gradient Descent
 
-A simple implementation of Linear Regression with a single input and output variable.
+A simple 100 line implementation of Linear Regression with a single input and output variable.
 
 
 ## Parameters:
